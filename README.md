@@ -7,3 +7,5 @@ Commands to start program:
 compile -> make
 
 start program -> ./fractol *(write name of fractol)
+
+![Mandelbrot](https://github.com/rmalkevy/Fractol/blob/master/images/Mandelbrot.jpg)
